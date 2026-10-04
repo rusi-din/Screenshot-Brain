@@ -365,7 +365,3 @@ Keep changes focused, preserve the local-first default, and update this README w
 This project demonstrates how open-source AI can solve a small but recurring personal problem without requiring a hosted AI service for the core experience.
 
 The development process and examples of GitHub Copilot usage are documented in [docs/copilot-usage.md](docs/copilot-usage.md).
-
-## License
-
-No license file is currently included in this repository. Add a project license before distributing the code outside the challenge submission.
