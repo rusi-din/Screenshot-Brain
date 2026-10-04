@@ -1,5 +1,8 @@
 # Hacktoberfest Weekend Challenge: Build for a Friend
 
+<a href="https://youtu.be/E7RqAdweF54"><img width="1839" height="975" alt="image" src="https://github.com/user-attachments/assets/015c6855-a56e-4e21-9aa1-fa4531a410a5" /></a>
+
+
 ## Screenshot Brain
 
 Screenshot Brain is a local-first screenshot search engine for people who save useful information as images and then struggle to find it again.
